@@ -3,11 +3,11 @@
 This is a flashcard application built with Tkinter, designed to help users learn Romanian vocabulary. The app presents a Romanian word, waits for the user to memorize it, and then flips the card to reveal its English translation. Users can mark words they know, ensuring a personalized and focused learning experience.
 
 # Features:
-Interactive Flashcards: Presents a Romanian word on the front of the card and flips to show the English translation after 3 seconds.
-Word Tracking: Keeps track of words you know and removes them from future practice sessions.
-Progress Saving: Saves your learning progress to a words_to_learn.csv file for seamless resumption.
-Customizable Vocabulary: Loads vocabulary from a romanian_words.csv file, allowing easy updates to the word list.
-Visual Appeal: A visually engaging interface with front and back card designs.
+- Interactive Flashcards: Presents a Romanian word on the front of the card and flips to show the English translation after 3 seconds.
+- Word Tracking: Keeps track of words you know and removes them from future practice sessions.
+- Progress Saving: Saves your learning progress to a words_to_learn.csv file for seamless resumption.
+- Customizable Vocabulary: Loads vocabulary from a romanian_words.csv file, allowing easy updates to the word list.
+- Visual Appeal: A visually engaging interface with front and back card designs.
 
 # How It Works:
 Word Display: Each card starts by showing a Romanian word on the front.
